@@ -1,12 +1,5 @@
-## Welcome to the Hummel Lab
+## The Hummel Lab of Clinical Neuroengineering
+---
+Our mission here the Hummel Lab is to develop novel personalized, neurotechnological interventions tailored to the individual to enhance functional recovery of sensorimotor and cognitive functions in patients suffering from neurological disorders. We aim to tackle conditions such as stroke, traumatic brain injury (TBI) or neurodegenerative disorders, by bringing neurotechnology from ‘bench to bedside’. We are multidisciplinary team of neuroscientiits, engineers, medical doctors, and psychologists working together to achieve these goals. 
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Feel free to check out our ongoing research in our [home page](https://www.epfl.ch/labs/hummel-lab/). 
